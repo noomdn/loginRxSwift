@@ -1,0 +1,6 @@
+framework module Pods_LoginRxSwift_LoginRxSwiftUITests {
+  umbrella header "Pods-LoginRxSwift-LoginRxSwiftUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
